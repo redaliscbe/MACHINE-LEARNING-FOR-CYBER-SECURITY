@@ -183,7 +183,6 @@ by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-conten
 
 ## [↑](#table-of-contents) Courses
 
-* [Data Mining for Cyber Security by Stanford](http://web.stanford.edu/class/cs259d/)
 * [Data Science and Machine Learning for Infosec](http://www.pentesteracademy.com/course?id=30)
 * [Cybersecurity Data Science on Udemy](https://www.udemy.com/cybersecurity-data-science)
 * [Machine Learning for Red Team Hackers on Udemy](https://www.udemy.com/course/machine-learning-for-red-team-hackers/)
